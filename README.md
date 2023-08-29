@@ -1,4 +1,6 @@
-[![MasterHead](https://github.com/Tanaya-27/Tanaya-27/assets/75646651/80968d0c-6634-46d4-b806-d9a44c8b5ac6)](https://tanaya-27.io/)
+<p align="center">
+  <img src="https://github.com/Tanaya-27/Tanaya-27/assets/75646651/80968d0c-6634-46d4-b806-d9a44c8b5ac6"/>
+</p>
 
 <h3 align="center">A passionate Computer Science Student, currently in my second year 🎓</h3>
 
