@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Tanaya-27/Tanaya-27/assets/75646651/57f5605a-94f6-4c10-a129-02d3719b63e7"/>
+  <img src="https://github.com/Tanaya-27/Tanaya-27/assets/75646651/23d205fa-19b8-48d4-b58d-4e459c7df614"/>
 </p>
 
 <h3 align="center">A passionate Computer Science Student, currently in my second year 🎓</h3>
