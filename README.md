@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanaya-27&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanaya-27&theme=material-palenight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanaya-27&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanaya-27&theme=material-palenight&hide_border=true&layout=compact&hide=jupyter%20notebook,scilab">
 
   <img src="https://github-trophies.vercel.app/?username=tanaya-27&theme=apprentice&no-frame=true&no-bg=true&margin-w=4">
 <br/>
