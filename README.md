@@ -4,7 +4,6 @@
 
 <h3 align="center">A passionate Computer Science Student, currently in my second year 🎓</h3>
 
-<br>
 <p align="right">
 <a href="https://linkedin.com/in/tanayapatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanayapatel" height="21" width="28" /></a>
 </p>
