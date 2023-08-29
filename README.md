@@ -25,8 +25,8 @@
 
 <p align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=tanaya-27&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tanaya-27&theme=material-palenight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=tanaya-27&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tanaya-27&theme=material-palenight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanaya-27&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanaya-27&label=Profile%20views&color=4100f0&style=flat" alt="tanaya-27" /> </p>
