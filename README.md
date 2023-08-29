@@ -10,7 +10,7 @@
 
 👩🏽‍💻 Most recently, I have worked on [a working game of Othello](https://github.com/Tanaya-27/java-othello-game)
 
-🌱 I’m currently learning **Software Development, AI Methods and Formal Reasoning** amongst other topics.
+🌱 I’m currently learning **Software Development, AI Methods and Formal Reasoning** amongst other topics
 
 💬 Ask me about **Fast Fashion, Yoga, and Goals-Setting**
 
