@@ -22,7 +22,7 @@
 <br>
 
 <details>
-<summary><h3> GitHub Stats⚡</h3></summary>
+<summary><h3> GitHub Stats:</h3></summary>
 
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanaya-27&show_icons=true&theme=dark&title_color=00376f&text_color=ffffff&bg_color=8baed6&locale=en&layout=compact" alt="tanaya-27" /></p>
